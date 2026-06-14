@@ -1,0 +1,10 @@
+name = "removebg-ai"
+compatibility_date = "2024-12-01"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "ANALYTICS_KV"
+id = "0dcefc395924480f890d6195b9b009ab"
+
+[vars]
+ENVIRONMENT = "production"
